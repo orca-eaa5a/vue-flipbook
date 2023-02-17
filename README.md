@@ -1,5 +1,12 @@
 # vue-flipbook
-
+![Github_Logo](./demo-img/img.png)  
+flipbook component of VueJS
+## dependencies
+```
+1. jquery
+2. vue-pdf
+3. turn.js (http://www.turnjs.com/)
+```
 ## Project setup
 ```
 npm install
@@ -14,11 +21,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
